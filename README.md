@@ -1,6 +1,8 @@
 # RapidRelease
 The RapidRelease dataset, a dataset of high-release frequency open-source projects.
 
+The dataset found here will be published in MSR 2019 conference as a dataset paper. Preprint can be found [here](https://github.com/saketrule/RapidRelease/blob/master/rapidrelease_msr_final_preprint%20(1).pdf).
+
 --------------------------
 The dataset is hosted on Zenodo [here](https://zenodo.org/record/2561335).
 
